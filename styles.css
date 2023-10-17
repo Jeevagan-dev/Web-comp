@@ -91,7 +91,7 @@ a li {
 }
 
 .about{
-    background-color: #ffffff;
+    background-color: #f1f1f1;
     width: 100%;
     height: 90vh;
     display: flex;
@@ -129,8 +129,8 @@ a li {
 }
 .cards{
     width: 300px;
-    border: 2px solid ;
-    color: white;
+    border: 2px solid black;
+    color: black;
     padding: 30px;
     border-radius: 8px;
     text-align: center;
@@ -152,7 +152,7 @@ a li {
     border: 2px solid ;
     margin-right: 30px;
     border-radius: 10px;
-    background: linear-gradient(45deg,#f9004d,#dd2476);
+    background: linear-gradient(45deg,#ec008c,#fc6767);
     color: white;
 }
 .pross{
@@ -164,6 +164,7 @@ a li {
     text-align: center;
     width: 100%;
     height: 20vh;
+    background-color: #f1f1f1;
 }
 footer{
     text-align: center;
@@ -179,11 +180,11 @@ footer{
 }
 
 #rass{
-    background:linear-gradient(45deg,#991cd1,#f9004d);
-    color: white;
+    color: black;
+
 }
 
 .rum{
-    color:#991cd1;
-    background-color: yellow;
+    color: #f1f1f1;
+    background-color: blueviolet;
 }
