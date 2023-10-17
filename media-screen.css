@@ -49,7 +49,7 @@
         position:absolute;
         margin-top: 100px;
         text-align: center;
-        background-color: yellow;
+        background-color: white;
         top:-25%;
         left: -100%;
         padding: 10px;
@@ -61,8 +61,18 @@
         padding: 10px;
     }
 
-.jass{
-    left: 0;
-    transition: all 500ms ease;
+
 }
+section{
+    padding: 30px 0;
+}
+.title{
+    font-size: 2.4rem;
+
+}
+.text-p1{
+    font: 0.9rem;
+}
+.text-p2{
+    font-size: 1.5rem;
 }
